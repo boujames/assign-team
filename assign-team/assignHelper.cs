@@ -10,9 +10,7 @@ namespace assign_team
     class AssignHelper
     {
         static void test()
-        {
-
-            
+        {   
         }
 
         static void getTeam()
